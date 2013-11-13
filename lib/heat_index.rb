@@ -1,5 +1,5 @@
 #Formula reference http://www.srh.noaa.gov/images/ffc/pdf/ta_htindx.PDF
-class HeatIndexCalculator
+class HeatIndex
 
   # 
   # This method uses an approximation. 
